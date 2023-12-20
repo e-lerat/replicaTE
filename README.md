@@ -175,7 +175,7 @@ We will use the chromosome 2L of *Drosophila melanogaster* (version: NT_033779.5
 
 **Installation**
 
-In the *ReplicaTE* directory:
+In the *replicaTE* directory:
 ```sh
 conda env create -f environment.yml
 ```
