@@ -191,9 +191,13 @@ source activate TEsim
 
 **Running**
 
+- Decompress the test data
+```sh
+unzip ./test/chr2L_Dmel.zip
+```
 - Recovery of the needed elements
 ```sh
-./python deleTE.py --gb ./test/sequence_droso_2L.gb
+./python deleTE.py --gb ./test/chr2L_Dmel.gb
 ```
 - Generate TE copies
 ```sh
