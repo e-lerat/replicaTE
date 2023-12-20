@@ -4,7 +4,7 @@
 
 **ReplicaTE** is a set of Python utilities which are designed to generate an artificial chromosome based on a real chromosome. The program recovers three components of interest (genes, transposable elements (TEs), and intergenic regions). Genes are cleaned up to remove any TEs inserted into them, and intergenic regions are simulated to avoid the presence of misannotated TEs. The sequences of the original TEs and all the characteristics of the families (number of copies, size of copies, divergence between copies, etc.) will enable new TE copies to be generated based on these characteristics. Next, the new TE copies are randomly placed in the chromosome.
 
-<img src="image/workflow.png" width="200">
+<img src="image/workflow.png" width="2000">
 
 ## Dependencies
 
