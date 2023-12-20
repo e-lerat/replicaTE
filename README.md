@@ -132,16 +132,16 @@ If all previous output names are the default ones, these options are not necessa
 
 *Mandatory options*
 ```sh
---TEs <filname>     fasta file of the TE simulated sequences (default = "simulated_TEs.fasta")
---int <filname>     table file of the characteristics of intergenic regions (default = "intergenic_sim_tab.tsv")
---gen <filname>     table file of gene informations (default = "gene_clean_tab.tsv")
---par <filname>     table file of TE parameters (default = "param_TEs_tab.tsv")
+--TEs <filname>     | fasta file of the TE simulated sequences (default = "simulated_TEs.fasta")
+--int <filname>     | table file of the characteristics of intergenic regions (default = "intergenic_sim_tab.tsv")
+--gen <filname>     | table file of gene informations (default = "gene_clean_tab.tsv")
+--par <filname>     | table file of TE parameters (default = "param_TEs_tab.tsv")
 ```
 
 *Other options*
 ```sh
---ind <int>         To create n genomes with 1/2 inserted TEs (default = 1).
---out <string>      Output filename of the simulated chromosome fasta file (default = "simulated_genome").
+--ind <int>         | To create n genomes with 1/2 inserted TEs (default = 1).
+--out <string>      | Output filename of the simulated chromosome fasta file (default = "simulated_genome").
 ```
 
 **Outputs**
