@@ -83,7 +83,7 @@ The distributions used to simulate the TE copies are exponentiated Weibull for t
 
 **Usage**
 ```sh
-./ python generaTE.py [--min <int>] [--nest] [--div <int>] [--cop <int>] [--pst <float>] [--tsd <float>] [--out <string>]
+./python generaTE.py [--min <int>] [--nest] [--div <int>] [--cop <int>] [--pst <float>] [--tsd <float>] [--out <string>]
 ```
 
 Usage is reminded when typing:
