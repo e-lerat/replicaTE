@@ -221,9 +221,9 @@ ___
 ## Citation
 
 If using this tool, please cite
-Marie Verneret, Van Anthony Le, Thomas Faraut, Jocelyn Turpin, Emmanuelle Lerat (2024) Particular sequence characteristics induce bias in the detection of polymorphic transposable element insertions. bioRxiv 2024.09.25.614865; doi: https://doi.org/10.1101/2024.09.25.614865 
+Marie Verneret, Van Anthony Le, Thomas Faraut, Jocelyn Turpin, Emmanuelle Lerat (2024) Particular sequence characteristics induce bias in the detection of polymorphic transposable element insertions. https://doi.org/10.24072/pci.genomics.100418 
 
 
-17 January 2025
+26 May 2025
 
 ___
